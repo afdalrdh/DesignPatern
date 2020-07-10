@@ -9,7 +9,7 @@ package adapter;
  *
  * @author afdalrdh
  */
-public class Adapter extends Kotak{
+public class Adapter extends PersegiPanjang{
     
     private Lingkaran circle;
     
